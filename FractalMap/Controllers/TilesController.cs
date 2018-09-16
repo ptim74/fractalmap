@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace FractalMap.Controllers
 {
-    //[ResponseCache(Duration = 86400)]
+    [ResponseCache(Duration = 86400)]
     [Route("api/[controller]")]
     [ApiController]
     public class TilesController : ControllerBase

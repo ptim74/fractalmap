@@ -6,5 +6,3 @@ Mandelbrot is viewed in web browser using [Leaflet](https://leafletjs.com/) java
 [![Build status](https://dev.azure.com/ptim74/DefaultProject/_apis/build/status/FractalMap-CI)](https://dev.azure.com/ptim74/DefaultProject/_build/latest?definitionId=5)
 
 [![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
-
-<img src="FractalMap/wwwroot/mandel0.png" alt="Mandelbrot" />
